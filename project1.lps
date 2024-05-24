@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2523"/>
+        <CursorPos X="58" Y="2473"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="608" Column="25" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="611" Column="25" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="614" Column="25" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="732" Column="26" TopLine="710"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="758" Column="29" TopLine="730"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="972" Column="26" TopLine="944"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="983" Column="29" TopLine="955"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2869" Column="24" TopLine="2841"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3504" Column="50" TopLine="3476"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3505" Column="37" TopLine="3477"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3525" Column="39" TopLine="3497"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3531" Column="37" TopLine="3503"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3550" Column="37" TopLine="3522"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3556" Column="37" TopLine="3528"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3559" Column="22" TopLine="3531"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="614" Column="40" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3559" Column="17" TopLine="3528"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="608" Column="33" TopLine="593"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="983" Column="37" TopLine="955"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="3525" Column="25" TopLine="3495"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="490" Column="24" TopLine="476"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="491" Column="24" TopLine="476"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2292" Column="25" TopLine="2264"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2312" Column="25" TopLine="2284"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2329" Column="23" TopLine="2301"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2357" Column="23" TopLine="2329"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2669" Column="28" TopLine="2644"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="2682" Column="25" TopLine="2657"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Documentos/Lazarus/src/fp-telegram-master/tgsendertypes.pas"/>
+        <Caret Line="481" Column="26" TopLine="466"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
